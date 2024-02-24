@@ -6,7 +6,7 @@ TURMA M1M2 (Segundas, Terças e Quintas - 07:00 às 08:40)
 
 DATAS DAS PROVAS
 
-P1 - 16/04 (3a. f)
+P1 - 18/04 (5a. f)
 
 P2 - 18/06 (3a. f)
 
