@@ -18,4 +18,4 @@ OBS.: A prova de reposição (PR) substitui P1 ou P2 e NÃO É ABERTA. A PR some
 
 DATAS DE ENTREGAS DOS TRABALHOS:
 
-TRABALHO 1 - Até 26/03 (3a. f)
+TRABALHO 1 - Até 26/03 (3a. f) em sala de aula ou por e-mail (neste caso, por favor, enviar um arquivo legível até a data marcada).
