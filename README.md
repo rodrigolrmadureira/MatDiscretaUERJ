@@ -5,7 +5,7 @@ Repositório para o material das aulas do curso de Matemática Discreta da Unive
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-P1 - 03/10 (Sexta-feira)
+P1 - 08/10 (Quarta-feira)
 
 P2 - 03/12 (Quarta-feira)
 
