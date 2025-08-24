@@ -29,6 +29,6 @@ ATIVIDADES:
 
    Atividades:
       1.1. Ler a seção 5 (Princípio da Indução Matemática) do Cap. 1 do livro-texto, "Introdução à Análise Combinatória".
-      1.2. Lista de Exercícios 1 - Indução Matemática (Forma fraca): 28 até 33, 35 itens (a), (b), (c).
+      1.2. Lista de Exercícios 1 - Indução Matemática (Forma fraca): Cap. 1, de 28 até 33, 35 itens (a), (b), (c).
 
       Obs.: Em breve, será providenciada uma nova lista de exercícios para a forma forte da Indução Matemática.
