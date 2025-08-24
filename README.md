@@ -16,3 +16,19 @@ PF - 10/12 (Quarta-feira)
 
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ATIVIDADES:
+
+0. Revisão: Notações Somatório e Produtório
+
+   Atividades:
+     0.1. Ler as seções 3 e 4 do Cap. 1 do livro-texto, "Introdução à Análise Combinatória".
+     0.2. Exercícios (para aquecimento): 14 até 27 do Cap. 1
+
+1. Princípio da Indução Matemática (ou Indução Finita)
+
+   Atividades:
+      1.1. Ler a seção 5 (Princípio da Indução Matemática) do Cap. 1 do livro-texto, "Introdução à Análise Combinatória".
+      1.2. Lista de Exercícios 1 - Indução Matemática (Forma fraca): 28 até 34, 35 itens (a), (b), (c).
+
+      Obs.: Em breve, será providenciada uma nova lista de exercícios para a forma forte da Indução Matemática.
