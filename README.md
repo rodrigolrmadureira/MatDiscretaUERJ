@@ -27,14 +27,14 @@ ATIVIDADES:
 
 1. Princípio da Indução Matemática (ou Indução Finita)
 
-TRABALHO EXTRA Nº 1 (INDUÇÃO FINITA): 
-DATA DE ENTREGA: 12/09/2025 (Sexta-feira)
-PELA PAGINA DO AVA (https://ava.pr1.uerj.br/mod/assign/view.php?id=364664)
-OU POR E-MAIL (rodrigo.madureira@ime.uerj.br)
-
-
    Atividades:
       1.1. Ler a seção 5 (Princípio da Indução Matemática) do Cap. 1 do livro-texto, "Introdução à Análise Combinatória".
       1.2. Lista de Exercícios 1 - Indução Matemática (Forma fraca): Cap. 1, de 28 até 33, 35 itens (a), (b), (c).
 
       Obs.: Em breve, será providenciada uma nova lista de exercícios para a forma forte da Indução Matemática.
+
+TRABALHO EXTRA Nº 1 (INDUÇÃO FINITA): 
+DATA DE ENTREGA: 12/09/2025 (Sexta-feira)
+PELA PAGINA DO AVA (https://ava.pr1.uerj.br/mod/assign/view.php?id=364664)
+OU POR E-MAIL (rodrigo.madureira@ime.uerj.br)
+
