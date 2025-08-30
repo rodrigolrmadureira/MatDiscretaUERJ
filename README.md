@@ -39,7 +39,8 @@ TRABALHO EXTRA Nº 1 (INDUÇÃO FINITA):
 
 VEJA DESCRIÇÃO EM: 
 
-https://github.com/rodrigolrmadureira/MatDiscretaUERJ/blob/main/Trabalhos/MD_Trabalho1_2025_2.pdf
+[TRABALHO EXTRA 1](https://github.com/rodrigolrmadureira/MatDiscretaUERJ/blob/main/Trabalhos/MD_Trabalho1_2025_2.pdf
+).
 
 DATA DE ENTREGA: 12/09/2025 (Sexta-feira)
 
