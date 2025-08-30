@@ -1,8 +1,7 @@
 **Repositório para o material das aulas do curso de Matemática Discreta da Universidade do Estado do Rio de Janeiro, ministrado pelo Prof. Rodrigo Madureira.
 **
 
-**2025/2
-**
+**2025/2**
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **DATAS DAS PROVAS**
