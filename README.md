@@ -26,7 +26,6 @@ VEJA DESCRIÇÃO EM: [TRABALHO EXTRA Nº 1](https://github.com/rodrigolrmadureir
 DATA DE ENTREGA: 12/09/2025 (Sexta-feira)
 
 PELA [PAGINA DO AVA](https://ava.pr1.uerj.br/mod/assign/view.php?id=364664) OU POR [E-MAIL](mailto:rodrigo.madureira@ime.uerj.br)
-
 **SOMENTE EM ARQUIVO PDF**
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
