@@ -31,6 +31,16 @@ VEJA DESCRIÇÃO EM: [TRABALHO EXTRA Nº 1](https://github.com/rodrigolrmadureir
 PELA [PAGINA DO AVA](https://ava.pr1.uerj.br/mod/assign/view.php?id=364664) OU POR [E-MAIL](mailto:rodrigo.madureira@ime.uerj.br)
 **SOMENTE EM ARQUIVO PDF**
 
+
+**TRABALHO EXTRA Nº 2 (COMBINAÇÕES COM REPETIÇÃO E BINÔMIO DE NEWTON):**
+
+VEJA DESCRIÇÃO EM: [TRABALHO EXTRA Nº 2](https://github.com/rodrigolrmadureira/MatDiscretaUERJ/blob/main/Trabalhos/MD_Trabalho2_2025_2.pdf).
+
+**DATA DE ENTREGA: 03/10/2025 (Sexta-feira)**
+
+PELA [PAGINA DO AVA](https://ava.pr1.uerj.br/mod/assign/view.php?id=366577) OU POR [E-MAIL](mailto:rodrigo.madureira@ime.uerj.br)
+**SOMENTE EM ARQUIVO PDF**
+
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **ATIVIDADES:**
@@ -83,6 +93,12 @@ PELA [PAGINA DO AVA](https://ava.pr1.uerj.br/mod/assign/view.php?id=364664) OU P
           Básicos: 18, 20
 
           Anagramas: 4, 6, 7, 10, 11, 14, 15, 19
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Estudo dirigido para a P1:
+
+
 
           Permutações caóticas: 3, 13, 21, 22, 23, 24
 
