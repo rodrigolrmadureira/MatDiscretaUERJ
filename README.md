@@ -94,17 +94,15 @@ PELA [PAGINA DO AVA](https://ava.pr1.uerj.br/mod/assign/view.php?id=366577) OU P
 
           Anagramas: 4, 6, 7, 10, 11, 14, 15, 19
 
-----------------------------------------------------------------------------------------------------------------------------------------------------------
-
-**Estudo dirigido para a P1:**
-
-[Exercícios sugeridos:](https://github.com/rodrigolrmadureira/MatDiscretaUERJ/blob/main/Estudos%20dirigidos/MD_UERJ_Estudo_Dirigido_P1_2025_2.pdf).
-
-
-
-
           Permutações caóticas: 3, 13, 21, 22, 23, 24
 
           Divisibilidade: 16
 
           Soluções inteiras não negativas de uma equação linear: 1, 2, 5, 8, 9, 12, 17
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+**Estudo dirigido para a P1:**
+
+[Exercícios sugeridos:](https://github.com/rodrigolrmadureira/MatDiscretaUERJ/blob/main/Estudos%20dirigidos/MD_UERJ_Estudo_Dirigido_P1_2025_2.pdf).
