@@ -96,7 +96,10 @@ PELA [PAGINA DO AVA](https://ava.pr1.uerj.br/mod/assign/view.php?id=366577) OU P
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Estudo dirigido para a P1:
+**Estudo dirigido para a P1:**
+
+[Exercícios sugeridos:](https://github.com/rodrigolrmadureira/MatDiscretaUERJ/blob/main/Estudos%20dirigidos/MD_UERJ_Estudo_Dirigido_P1_2025_2.pdf).
+
 
 
 
