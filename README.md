@@ -48,4 +48,44 @@ PELA [PAGINA DO AVA](https://ava.pr1.uerj.br/mod/assign/view.php?id=364664) OU P
 
       Obs.: Em breve, será providenciada uma nova lista de exercícios para a forma forte da Indução Matemática.
 
+**2. Princípio Aditivo e Multiplicativo (Combinações, arranjos e permutações simples - Revisão)**
+
+     2.1. Ler o Cap. 2 do livro-texto, "Introdução à Análise Combinatória".
+     2.2. Exercícios de revisão selecionados do Cap. 2: 1, 2, 11, 12, 14, 15, 16, 18, 19, 24, 26, 27, 28, 35, 39, 42, 57, 58, 68, 84, 88, 89, 90, 91, 92
+
+**3.1. Combinações completas (com repetição), Arranjos com repetição, Permutações circulares**
+
+     3.1.1. Ler o Cap. 3 do livro-texto, "Introdução à Análise Combinatória" até a seção Permutações Circulares
+     3.1.2. Exercícios de revisão selecionados do Cap. 3: 10 até 28.
+
+ **3.2. Binômio de Newton e Triângulo de Pascal**
+
+     3.2.1. Ler a seção 7. Coeficientes Binomiais do o Cap. 3 do livro-texto, "Introdução à Análise Combinatória", sabendo que:
+
+               Exemplo 3.16 (Teorema das Linhas)
+
+               Exemplo 3.17 (Teorema das Colunas e Relação de Stifel)
+
+     3.2.2. Exercícios de revisão selecionados do Cap. 3: 1 até 9
+
+     3.2.3. Leitura complementar: as seções 4.1 (Triângulo de Pascal) e 4.2 (Binômio de Newton) da referência: "Análise Combinatória e Probabilidade", da Editora SBM - Autores: A. C. O. Morgado, J. B. P. Carvalho, P. C. P. Carvalho, P. Fernandez
+             
+            Outra sugestão de exercícios: veja nas seções 4.1 e 4.2 da leitura complementar.
+    
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ **4. Princípio da Inclusão e Exclusão**
+
+     4.1. Ler as seções 1, 2, 3, 4 do Capítulo 4
+
+          Exercícios de revisão selecionados do Cap. 4 divididos por assunto: 
+
+          Básicos: 18, 20
+
+          Anagramas: 4, 6, 7, 10, 11, 14, 15, 19
+
+          Permutações caóticas: 3, 13, 21, 22, 23, 24
+
+          Divisibilidade: 16
+
+          Soluções inteiras não negativas de uma equação linear: 1, 2, 5, 8, 9, 12, 17
