@@ -100,9 +100,33 @@ PELA [PAGINA DO AVA](https://ava.pr1.uerj.br/mod/assign/view.php?id=366577) OU P
 
           Soluções inteiras não negativas de uma equação linear: 1, 2, 5, 8, 9, 12, 17
 
-
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **Estudo dirigido para a P1:**
 
 [Exercícios sugeridos](https://github.com/rodrigolrmadureira/MatDiscretaUERJ/blob/main/Estudos%20dirigidos/MD_UERJ_Estudo_Dirigido_P1_2025_2.pdf)
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ **5. Funções Geradoras**
+
+Atividades:
+
+1. Ler o Capítulo 5 do livro-texto, com as seguintes observações:
+
+Teorema 5.1 - Ver somente as propriedades (i), (ii) e (iii).
+
+**Propriedades (iv) e (v) - Envolvem derivada e integral e não serão dadas neste curso.**
+
+**Não precisa ver os exemplos 5.9, 5.10 e 5.18 (Envolvem derivada e integral. Portanto, não serão dados).**
+
+**A seção 4 (Partições de um inteiro) também não será dada.**
+
+2. Exercícios selecionados do Cap. 5 divididos por assunto: 
+
+**Funções geradoras ordinárias:** 1 até 12, 14 - item (a), 15, 16, 18, 19, 21.
+
+**Funções geradoras exponenciais:** 13, 14 - item (b), 17, 20. 
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------
