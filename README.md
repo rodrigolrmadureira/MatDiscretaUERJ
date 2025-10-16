@@ -123,6 +123,10 @@ Teorema 5.1 - Ver somente as propriedades (i), (ii) e (iii).
 
 **A seção 4 (Partições de um inteiro) também não será dada.**
 
+Material complementar:
+
+[Funções Geradoras](https://github.com/rodrigolrmadureira/MatDiscretaUERJ/blob/main/Material%20do%20curso/Livros/An%C3%A1lise%20Combinat%C3%B3ria/Funcoes%20Geradoras.pdf)
+
 2. Exercícios selecionados do Cap. 5 divididos por assunto: 
 
 **Funções geradoras ordinárias:** 1 até 12, 14 - item (a), 15, 16, 18, 19, 21.
