@@ -119,7 +119,7 @@ Teorema 5.1 - Ver somente as propriedades (i), (ii) e (iii).
 
 **Propriedades (iv) e (v) - Envolvem derivada e integral e não serão dadas neste curso.**
 
-**Não precisa ver os exemplos 5.9, 5.10 e 5.18 (Envolvem derivada e integral. Portanto, não serão dados).**
+**Não precisa ver os exemplos 5.9, 5.10, 5.11 e 5.18 (Envolvem derivada e integral. Portanto, não serão dados).**
 
 **A seção 4 (Partições de um inteiro) também não será dada.**
 
