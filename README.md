@@ -132,3 +132,43 @@ Material complementar em: [Funções Geradoras](https://github.com/rodrigolrmadu
 **Funções geradoras exponenciais:** 13, 14 - item (b), 17, 20. 
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ **6. Relações de recorrência**
+
+Atividades:
+
+1. Ler o Capítulo 6 do livro-texto, com as seguintes observações:
+
+Seção 1 - Introdução - Ler os exemplos 6.1, 6.2, 6.3, 6.6.
+
+Seção 2 - Resolução de relações de recorrência lineares
+
+Ler as seções:
+
+2.1. Relações de recorrência lineares homogêneas
+
+2.2. Relações de recorrência lineares não-homogêneas (até o exemplo 6.17)
+
+**As partes seguintes (do exemplo 6.18 em diante) não serão cobradas no curso.**
+
+
+**2. Exercícios selecionados do Cap. 6 divididos por assunto:** 
+
+Observações:
+
+**1. Para quem possui a edição nova do livro-texto da Editora Ciência Moderna:**
+
+Montagem (exemplo de Matemática Financeira): Exercício 1
+
+Resolução de equações de recorrência lineares homogêneas: Exercícios 2, 6.
+
+Resolução de equações de recorrência lineares não-homogêneas: Exercício 3.
+
+**2. Para quem possui a edição antiga do livro-texto da Editora da Unicamp:**
+
+Montagem (exemplo de Matemática Financeira): Exercício 1
+
+Resolução de equações de recorrência lineares homogêneas: Exercícios 3, 7.
+
+Resolução de equações de recorrência lineares não-homogêneas: Exercício 4.
+
