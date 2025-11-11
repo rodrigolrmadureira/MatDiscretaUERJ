@@ -139,7 +139,7 @@ Atividades:
 
 1. Ler o Capítulo 6 do livro-texto, com as seguintes observações:
 
-Seção 1 - Introdução - Ler os exemplos 6.1, 6.2, 6.3, 6.6.
+Seção 1 - Introdução - Ler os exemplos 6.1, 6.2 (item a), 6.3.
 
 Seção 2 - Resolução de relações de recorrência lineares
 
