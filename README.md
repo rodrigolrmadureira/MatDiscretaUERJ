@@ -2,13 +2,13 @@
 
 **DATAS DAS PROVAS:**
 
-P1 - 01/09 (Terça-feira)
+P1 - 27/08 (5a. feira)
 
-P2 - 20/10 (Terça-feira)
+P2 - 13/10 (3a. feira)
 
-PR - 26/10 (Segunda-feira)
+PR - 20/10 (3a. feira)
 
-PF - 29/10 (Quinta-feira)
+PF - 22/10 (5a. feira)
 
 
 **DATAS DE ENTREGA DOS TRABALHOS:**
