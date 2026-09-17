@@ -4,7 +4,7 @@
 
 P1 - 27/08 (5a. feira)
 
-~P2 - 13/10 (3a. feira)~~
+~~P2 - 13/10 (3a. feira)~~ **P2 - 08/10 (5a. feira)**
 
 PR - 20/10 (3a. feira)
 
