@@ -4,7 +4,7 @@
 
 **DATAS DAS PROVAS:**
 
-P1 dividida em 2 partes:
+P1 dividida em 2 partes em função dos recessos de dez/26 e jan/27:
 - Parte 1 (5,0 pontos) - 16/12 (Quarta-feira)
   - Lógica proposicional
   - Lógica dos predicados
