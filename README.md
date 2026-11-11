@@ -28,6 +28,6 @@ P2 - 31/03 (Quarta-feira)
 
 Reposição - 05/04 (Segunda-feira)
 
-**- Obs.: Só poderá fazer a prova de reposição quem não fez somente uma das avaliações P1 ou P2. Quem faltar a P1 e P2 simultaneamente, estará automaticamente reprovado!**
+**- Obs.: Só poderá fazer a prova de reposição quem não fez uma e somente uma das avaliações P1 ou P2. Quem faltar a P1 e P2 simultaneamente, estará automaticamente reprovado!**
 
 Prova Final - 12/04 (Segunda-feira)
