@@ -10,6 +10,8 @@ P1 dividida em 2 partes:
   - Lógica dos predicados
 
 - Parte 2 (5,0 pontos) - 03/03 (Quarta-feira)
+ - Conjuntos
+ - Técnicas de demonstração (Prova por absurdo (ou contradição) e Prova por indução finita)
 
 
 P2 - 31/03 (Quarta-feira)
