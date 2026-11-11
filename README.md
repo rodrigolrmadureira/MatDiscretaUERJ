@@ -20,6 +20,14 @@ P1 dividida em 2 partes em função dos recessos de dez/26 e jan/27:
 
 P2 - 31/03 (Quarta-feira)
 
+- Combinatória:
+  - Permutações e combinações com repetição
+  - Triângulo de Pascal e Binômio de Newton
+  - Princípio da Inclusão e Exclusão
+  - Relações de Recorrêrncia
+
 Reposição - 05/04 (Segunda-feira)
+
+**- Obs.: Só poderá fazer a prova de reposição quem faltou a apenas uma das avaliações P1 ou P2, não as duas simultaneamente!**
 
 Prova Final - 12/04 (Segunda-feira)
