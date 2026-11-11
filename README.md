@@ -12,6 +12,8 @@ P1 dividida em 2 partes em função dos recessos de dez/26 e jan/27:
 - Parte 2 (5,0 pontos) - 03/03 (Quarta-feira)
   - Teoria dos Conjuntos
   - Técnicas de demonstração
+    - Prova direta
+    - Prova contrapositiva
     - Prova por absurdo (ou contradição)
     - Prova por indução finita
 
