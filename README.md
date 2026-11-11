@@ -4,8 +4,10 @@
 
 **DATAS DAS PROVAS:**
 
-P1 dividida m 2 partes:
+P1 dividida em 2 partes:
 - Parte 1 (5,0 pontos) - 16/12 (Quarta-feira)
+  - Lógica proposicional
+  - Lógica dos predicados
 
 - Parte 2 (5,0 pontos) - 03/03 (Quarta-feira)
 
