@@ -23,8 +23,10 @@ P3 - 31/03 (Quarta-feira)
 
 Reposição - 05/04 (Segunda-feira)
 
-**- Obs.: A prova de reposição (PR) não é aberta. A PR será aplicada somente para alunos que faltarem até no máximo duas das provas P_1, P_2 ou P_3 e justificarem a ausência por e-mail até a véspera da realização da PR. 
-Obs.: Sem essa justificativa, o aluno não poderá fazer a PR. 
-Quem faltar às datas de P1, P2 e P3 simultaneamente, estará automaticamente reprovado!**
+**- Obs.: A prova de reposição (PR) não é aberta. A PR será aplicada somente para alunos que faltarem até no máximo duas das provas P_1, P_2 ou P_3 e justificarem a ausência por e-mail até a véspera da realização da PR.**
+
+**Obs.: Sem essa justificativa, o aluno não poderá fazer a PR.**
+
+**Quem faltar às datas de P1, P2 e P3 simultaneamente, estará automaticamente reprovado!**
 
 Prova Final - 12/04 (Segunda-feira)
