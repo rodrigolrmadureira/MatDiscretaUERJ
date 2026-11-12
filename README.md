@@ -4,3 +4,27 @@
 
 **DATAS DAS PROVAS:**
 
+P1 - 16/12 (Quarta-feira)
+  - Lógica proposicional
+  - Lógica dos predicados
+
+P2 - 24/02 (Quarta-feira)
+  - Teoria dos Conjuntos
+  - Técnicas de demonstração (destaques para Prova por absurdo (ou contradição) e Prova por indução finita)
+
+
+P3 - 31/03 (Quarta-feira)
+
+- Combinatória:
+  - Permutações e combinações com repetição
+  - Triângulo de Pascal e Binômio de Newton
+  - Princípio da Inclusão e Exclusão
+  - Relações de Recorrêrncia
+
+Reposição - 05/04 (Segunda-feira)
+
+**- Obs.: A prova de reposição (PR) não é aberta. A PR será aplicada somente para alunos que faltarem até no máximo duas das provas P_1, P_2 ou P_3 e justificarem a ausência por e-mail até a véspera da realização da PR. 
+Obs.: Sem essa justificativa, o aluno não poderá fazer a PR. 
+Quem faltar às datas de P1, P2 e P3 simultaneamente, estará automaticamente reprovado!**
+
+Prova Final - 12/04 (Segunda-feira)
