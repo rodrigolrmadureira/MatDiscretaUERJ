@@ -10,7 +10,7 @@ P1 - 16/12 (Quarta-feira)
 
 P2 - 24/02 (Quarta-feira)
   - Teoria dos Conjuntos
-  - Técnicas de demonstração (destaques para Prova por absurdo (ou contradição) e Prova por indução finita)
+  - Técnicas de demonstração (destaques para prova por absurdo (ou contradição) e prova por indução finita)
 
 
 P3 - 31/03 (Quarta-feira)
